@@ -1,0 +1,11 @@
+*{
+ padding: 0;
+ box-sizing: border-box;
+}
+.main{
+  width: 500px;
+  height: 500px;
+}
+.header{
+  font-size: large;
+}
